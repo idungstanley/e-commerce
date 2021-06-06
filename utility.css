@@ -1,0 +1,8 @@
+.headings{
+    text-align: center;
+
+}
+.p-1, .p-2{
+    justify-content: flex-end;
+    margin: 40px;
+}
